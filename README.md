@@ -91,7 +91,7 @@ The backend structure isolates responsibilities for maintainability and clean ho
 
 ### 1. Replicate Project State
 ```bash
-git clone https://github.com](https://github.com/daniyalali047-commits/authentication-backend-system)
+git clone https://github.com/daniyalali047-commits/authentication-backend-system
 cd authentication-backend-system
 ```
 
